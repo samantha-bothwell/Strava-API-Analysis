@@ -1,0 +1,6 @@
+# Session Data files
+.RData
+DataID/
+.DS_Store
+.gitignore
+README_files/
